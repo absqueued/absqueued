@@ -1,7 +1,7 @@
 import React from 'react';
 import { useIntl, IntlContextConsumer, changeLocale } from 'gatsby-plugin-intl';
 import Header from '../header';
-import css from './container.module.scss';
+import * as css from './container.module.scss';
 
 const languageName = {
   en: {txt: 'EN', title: 'Change site language to US English'},

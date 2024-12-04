@@ -1,6 +1,6 @@
 import React from 'react';
 import { useIntl, Link } from 'gatsby-plugin-intl';
-import css from './navbar.module.scss';
+import * as css from './navbar.module.scss';
 import Icons from '../icons';
 
 export default () => {

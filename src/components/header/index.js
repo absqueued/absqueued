@@ -1,6 +1,6 @@
 import React from "react";
 import { useIntl, Link } from 'gatsby-plugin-intl';
-import css from './header.module.scss';
+import * as css from './header.module.scss';
 
 export default ({children}) => {
     const intl = useIntl();
