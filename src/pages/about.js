@@ -18,7 +18,7 @@ export default () => {
             <p>And by 2014, I was already working for the world's top multinational technology companies.</p>
             <p>As of 2020, I am back in my native country Nepal, having travelled half of the world.</p>
             <p>Speaking of my <strong>skillset</strong>, I have strong knowledge of JavaScript (NodeJS, React, SailsJS), UX design (prototyping new solutions), and more.</p>
-            <p>View My <a rel="nofollow noopener noreferrer" href="/Shekhar_K_Sharma_Public_Resume.pdf">Resume <Icons size="s" name="External" inline /></a>.</p>
+            <p>View My <a rel="nofollow noopener noreferrer" href="/absqueued-resume-github.pdf">Resume <Icons size="s" name="External" inline /></a>.</p>
         </article>
         <SocialNav />
         <Navbar />
